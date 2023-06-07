@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /*
+* 3D player movement using the CharacterController component
 * Carl Eriksson
 * 2023-01-28
 */
