@@ -4,6 +4,7 @@ using System.Linq;
 using UnityEngine.EventSystems;
 
 /*
+* An in-game console made for some of my projects. Commands can be added and removed any time.
 * Carl Eriksson
 * 2023-06-04
 */
