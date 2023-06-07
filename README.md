@@ -5,7 +5,7 @@ This repo is a collection place for some of my Unity C# scripts. They vary in be
 - Movement, different types of player movement
 - Immersion, used to give the player a deeper, down to earth feel in the gameworld. Like dynamic weapon- sway, viewbob, screenshake etc.
 
-All scripts are created by me and can be used for personal content.
+All scripts are created by me and can be used for personaly.
 May not be uploaded and credited by someone else, even if modified
 
 ~Eriksson 2023
